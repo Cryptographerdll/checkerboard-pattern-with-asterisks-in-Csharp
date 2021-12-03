@@ -1,0 +1,2 @@
+# checkerboard-pattern-with-asterisks-in-Csharp
+Write an app that uses only the output statements                Console.Write( "* " );                Console.Write( " " );                Console.WriteLine();                to display the checkerboard pattern. A Console.WriteLine method call with no arguments outputs a single newline character.                 [Hint: Repetition statements are required.]
